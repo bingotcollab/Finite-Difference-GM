@@ -1,0 +1,1 @@
+{"metric": {"alpha": 0.2}, "lmax": 5, "m": 1, "Npoints_x": 2000, "Npoints_t": 800000, "xmin": -3, "xmax": 15, "t_step": 0.001, "initial_distance": 70, "initial_spread": 70, "li": 3, "observing_points": 200, "block_size": 2000, "save_full": false, "charge": 0}
