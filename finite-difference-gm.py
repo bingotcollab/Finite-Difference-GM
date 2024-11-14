@@ -1,5 +1,5 @@
 """
-@author: lucas
+@author: Lucas Formigari (lucas.f.formigari@gmail.com)
 """
 
 import pathlib
