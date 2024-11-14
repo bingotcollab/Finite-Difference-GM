@@ -6,15 +6,5 @@ The Code consists of two main classes:
 which iterates the finite-elements method to evolve the field over time, and periodically saves the results. If the load parameter is passed, it will load the last result
 from the previous execution, and start the iteration from there.
 
-The Gutsunaev-Manko Metric is stated in the Weyl Gauge, with the following line element:
+For further details, see E.C. Ribeiro,  Formigari, M.R. Ribeiro Jr., E. Abdalla, et all, Stability of the spacetime of a magnetized compact object. [arXiv:2024.nnnnnn].
 
-
-**Execution**
-To 
-
-
-**Outputs**
-
-
-
-**Further References**
