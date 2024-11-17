@@ -1,5 +1,5 @@
 """
-@author: lucas
+@author: Lucas Formigari (lucas.f.formigari@gmail.com)
 """
 
 import pathlib
@@ -271,7 +271,7 @@ class Solver:
 
     
 def parse_arguments():
-    argpars = argparse.ArgumentParser(prog='Finite Elements for Gutsanaev-Manko-like metrics',
+    argpars = argparse.ArgumentParser(prog='Finite-difference scheme for Gutsanaev-Manko-like metrics',
                                       description='Takes in an axisymmetric metric and calculates a scalar perturbations')
     argpars.add_argument('--params', help='parameters file path', type=pathlib.Path, default=pathlib.Path('./parameters.json'), required=False)
     argpars.add_argument('-l', '--load', action='store_true',help='load last simulated value')

@@ -1,4 +1,5 @@
-The Finite-Elements-GM is a code dedicated to calculate the Quasi-Normal Modes (QNM) of a scalar field over a Gutsunaev-Manko (GM) background.
+The Finite-Difference-GM is a code dedicated to calculate the Quasi-Normal Modes (QNM) of a scalar field over a Gutsunaev-Manko (GM) background.
+
 The Code consists of two main classes:
 
 * **Metric**: Defines the GM metric, i.e., its parameters, as well as the functions g and f, defining the coefficients in the Weyl gauge.
